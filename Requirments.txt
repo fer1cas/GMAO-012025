@@ -1,0 +1,4 @@
+glop
+streamlit
+pandas
+matplotlib
