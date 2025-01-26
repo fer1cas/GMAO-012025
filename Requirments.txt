@@ -1,4 +1,0 @@
-glop
-streamlit
-pandas
-matplotlib
